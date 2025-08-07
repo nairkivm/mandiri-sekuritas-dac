@@ -1,0 +1,7 @@
+current_age,gender,yearly_income,total_debt,debt_to_income_ratio,credit_score,credit_score_group,txn_count_baseline,txn_count_recent,percent_drop
+50,Female,17657,21899,1.240244662,614,Fair (580-669),56,34,0.39
+38,Male,40478,76392,1.887247394,718,Good (670-739),118,75,0.36
+64,Female,1785,2892,1.620168067,732,Good (670-739),103,67,0.35
+91,Female,27150,2007,0.07392265193,737,Good (670-739),127,84,0.34
+36,Female,74016,85204,1.151156507,702,Good (670-739),178,120,0.33
+59,Female,39633,58586,1.478212601,777,Very Good (740-799),115,78,0.32

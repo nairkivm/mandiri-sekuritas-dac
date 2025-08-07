@@ -1,0 +1,6 @@
+credit_score_group,total_users,percentage
+Good (670-739),586,48.59
+Very Good (740-799),303,25.12
+Fair (580-669),176,14.59
+Excellent (800+),100,8.29
+Poor (<580),41,3.4

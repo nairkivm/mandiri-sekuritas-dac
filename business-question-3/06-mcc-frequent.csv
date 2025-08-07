@@ -1,0 +1,110 @@
+mcc,mcc_description,total_transactions,total_amount
+5411,Grocery Stores and Supermarkets,42073,1083180.05
+5499,Miscellaneous Food Stores,38148,392390.18
+5541,Service Stations,37424,769813.98
+5812,Eating Places and Restaurants,26283,687709.59
+5912,Drug Stores and Pharmacies,20383,929073.6
+4784,Tolls and Bridge Fees,18705,672063.86
+5300,Wholesale Clubs,15657,963446.42
+4829,Wire Transfer Money Orders,15276,1381220
+4121,Taxicabs and Limousines,13782,328891.46
+5814,Fast Food Restaurants,12923,339926.53
+7538,Automotive Service Shops,12717,672055.09
+5311,Department Stores,12608,701348.89
+5310,Duty Free Stores,6575,267893.51
+5813,Bars,6565,165346.66
+4900,Utilities – Electric,6518,734909.38
+5942,Book Stores,6194,119081.48
+4814,Telecommunication Services,5713,647116.16
+5211,Lumber and Building Materials,4390,199047.8
+7832,Motion Picture Theaters,3957,106598.8
+5921,Package Stores – Beer,3393,35756.18
+7230,Beauty Shops and Barber Shops,2782,130680.52
+4214,Motor Freight Carriers and Trucking,2605,38554.08
+9402,Postal Services – Government Only,2558,37855.54
+5719,Miscellaneous Home Furnishing Specialty Stores,2223,113485.28
+4111,Local/Suburban Passenger Transport,2053,188127.88
+5651,Family Clothing Stores,1863,100217.38
+5970,Artist Supply and Craft Stores,1848,80659.93
+5815,Caterers,1632,20830.52
+7349,Cleaning,1324,56320.94
+4899,Cable,1281,183012.94
+6300,Insurance Sales,1260,286831.26
+7922,Theatrical Producers and Ticket Agencies,1170,103474.78
+7542,Car Washes,1055,14609.72
+5251,Hardware Stores,927,35704.47
+4722,Travel Agencies,858,113028.69
+8021,Dentists and Orthodontists,849,131884.63
+7210,Laundry,838,16169.82
+7995,Gambling Transactions,764,122274.6
+8011,Doctors and Physicians,609,106210.92
+8043,Optometrists and Ophthalmologists,483,64124.41
+7801,Government-Owned Lotteries,465,62167.76
+7011,Hotels,457,36608.91
+3509,Personal Services (Miscellaneous),453,33592.42
+8099,Medical Services (Not Elsewhere Classified),439,46857.1
+3504,Advertising Services,429,31545.53
+3771,Airlines,424,30916.29
+3780,Charter Flights,418,29477.78
+5655,Sports and Riding Apparel Stores,416,27849.39
+3640,Petroleum and Gas Products,412,30811.07
+3684,Jewelry,406,33916.53
+7802,Casinos,394,66198.57
+3722,Airlines,390,30218.84
+3775,Airline Ticket Offices,361,28999.39
+5661,Shoe Stores,351,26460.7
+3596,Electrical Contractors,347,25353.62
+3730,Ship and Boat Dealers,342,24522.81
+7393,Detective Agencies,318,9850.61
+7996,Amusement Parks,314,48828.5
+8049,Chiropodists,314,45539.98
+3359,Other Building Materials,308,17809.65
+8041,Chiropractors,302,44356.16
+3389,Industrial Supplies,298,16826.03
+5192,Books,270,10890.14
+5621,Womens Ready-to-Wear Stores,267,17831.39
+3405,Plumbing Supplies,258,15920.68
+3390,Office Supplies,245,15368.79
+5193,Florists,235,8447.34
+3395,Stationery and Office Supplies,217,14354.44
+3387,Industrial Machinery,209,11676.53
+5261,Nurseries,193,9516.97
+3393,Industrial Supplies (Misc.),186,11622.65
+5732,Electronics Stores,183,25569.33
+5932,Antique Shops,168,27092.29
+8111,Legal Services,164,96525.41
+5977,Cosmetic Stores,155,1638.27
+5094,Precious Stones and Metals,133,6538.97
+5712,Furniture Stores,104,35995.7
+8062,Hospitals,101,78374.59
+8931,Accounting,100,18441.33
+1711,Heating,90,12533.25
+7276,Clubs – Membership,80,12826.38
+5816,Digital Goods – Books,73,12100.07
+5045,Computers and Peripherals,72,10240.5
+4511,Airlines,70,47669.15
+3066,Security Brokers and Dealers,69,50332.7
+3174,Financial Institutions,68,50292.61
+3000,Utilities,67,49647.35
+3256,Motor Vehicle Dealers (New and Used),65,45230.99
+5947,Gift,63,663.29
+3058,Telecommunication Equipment,63,46817.95
+3001,Gas,61,45485.56
+3132,Financial Services,56,40487.77
+4112,Passenger Railways,54,15757.46
+3260,Auto Rental Companies,51,37936.43
+4131,Bus Lines,45,4242.68
+7549,Towing Services,36,13585.28
+5533,Automotive Parts and Accessories Stores,31,11765.5
+7531,Automotive Body Repair Shops,26,11641.6
+5941,Sporting Goods Stores,22,908.04
+3009,Financial Institutions – Other,13,7229.24
+5722,Household Appliance Stores,11,4205.24
+5733,Music Stores,9,5144.3
+3007,Financial Services – Miscellaneous,9,6266.1
+3006,Utilities – Other,7,5747.77
+3008,Telecommunication Services – Miscellaneous,7,5809.12
+3075,Consumer Finance Companies,6,4728.3
+3005,Public Utility Services,6,7221.82
+3144,Investment Services,5,2509.98
+4411,Cruise Lines,3,3987.9
