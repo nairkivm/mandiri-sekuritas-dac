@@ -62,7 +62,7 @@ The SQL scripts are structured to answer these five strategic questions:
 ## Additional Files
 
 - CSV outputs from all SQL queries are provided for reference.
-- A presentation summarizing the analysis insights is included.
+- A [presentation](User%20Behavior%20Analysis%20-%20MS%20-%20DCA.pdf) summarizing the analysis insights is included.
 - [Looker Studio Dashboard (link here)](https://lookerstudio.google.com/reporting/bca5c165-f8a9-45fd-843c-14f97d040445) provides an interactive visualization of the findings.
 
 ---
