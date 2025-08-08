@@ -8,6 +8,8 @@ This repository contains SQL scripts used to analyze private bank transaction da
 - `users_data.csv`
 - `cards_data.csv`
 
+Files can be downloades [here](https://drive.google.com/drive/folders/14U87BRaPXvv-l9E7dysGqY0VjVv4lxKP?usp=drive_link).
+
 These queries aim to uncover user behavior, transaction patterns, and financial risk indicators. Although the raw data is private, this guide will help you replicate the analytical process using Google BigQuery.
 
 ---
