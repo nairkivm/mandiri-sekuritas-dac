@@ -3,7 +3,6 @@ WITH max_tx_date AS (
   FROM `ms_data.transactions_data`
 ),
 
--- Hitung periode terakhir (3 bulan terakhir)
 recent_tx AS (
   SELECT
     t.client_id,
@@ -16,7 +15,6 @@ recent_tx AS (
   GROUP BY t.client_id
 ),
 
--- Hitung periode sebelumnya (3 bulan sebelum recent)
 baseline_tx AS (
   SELECT
     t.client_id,
@@ -29,7 +27,6 @@ baseline_tx AS (
   GROUP BY t.client_id
 ),
 
--- Gabungkan recent & baseline
 compare_tx AS (
   SELECT
     r.client_id,
@@ -45,7 +42,6 @@ compare_tx AS (
   ON r.client_id = b.client_id
 )
 
--- Identifikasi potensi churn
 SELECT
   u.current_age,
   u.gender,
